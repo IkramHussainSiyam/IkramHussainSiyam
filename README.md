@@ -10,7 +10,7 @@ A Passionate and dedicated Frontend Web Developer with a keen eye for detail and
 ## 🔗 Social Links
 
 <div align="left">
-  <a href="https://www.showwcase.com/ikramhussainsiyam" target="_blank">
+  <a href="https://www.linkedin.com/in/ikram-hussain-siyam-b89b19324/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=IN&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/IkramHussain.Dev" target="_blank">

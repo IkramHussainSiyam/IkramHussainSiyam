@@ -3,23 +3,23 @@
 <br clear="both">
 <br clear="both">
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/ikram-hussain-siyam-b89b19324/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=IN&color=0077B5&logoColor=white&labelColor=&style=flat" height="24" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/IkramHussain.Dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="24" alt="facebook logo"  />
+  </a>
+  <a href="mailto:ikramhussaindev404@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="24" alt="gmail logo"  />
+  </a>
+</div>
+
+<br clear="both">
+
 # 🙋🏻‍♂️ Hi! I'm [Ikram Hussain Siyam](https://www.showwcase.com/ikramhussainsiyam/ "Portfolio")
 
 A Passionate and dedicated Frontend Web Developer with a keen eye for detail and a love for crafting exceptional user experiences. Recently, I Learned Everything About Web Develeopment From [Learn With Sumit](https://learnwithsumit.com/ "Learn With Sumit"), [Programming Hero](https://web.programming-hero.com/ "Programming Hero") & [London IT](https://www.linkedin.com/company/londonitsylhet/ "London IT").
-
-## 🔗 Social Links
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ikram-hussain-siyam-b89b19324/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=IN&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/IkramHussain.Dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="32" alt="facebook logo"  />
-  </a>
-  <a href="mailto:ikramhussaindev404@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="32" alt="gmail logo"  />
-  </a>
-</div>
 
 ## 💻 My Skills / TechStack
 
@@ -58,6 +58,56 @@ A Passionate and dedicated Frontend Web Developer with a keen eye for detail and
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
+
+## 💼 Projects
+
+### 1. VendXCart
+
+VendXCart is an e-commerce platform for buyers, sellers, and admins, featuring AI-assisted shopping, secure NextAuth authentication, and seamless transactions.
+
+<div style="display: flex; gap: 8px;">
+  <a href="https://github.com/IkramHussainSiyam/VendXCart" target="_blank" title="VendXCart Repo">GitHub Repo</a>
+  <span style="color: #4588df;">|</span>
+  <a href="https://vendxcart.vercel.app" target="_blank" title="VendXCart Live">Live Link</a>
+</div>
+
+#### Technologies:
+
+1. Frontend: Material Tailwind, React.js
+1. Backend: Node.js, Express.js
+1. Database: MongoDB
+
+### 2. Kawaiinime
+
+Kawaiinime lets anime fans explore and watch shows via AniList and Consumet API, offering a seamless experience.
+
+<div style="display: flex; gap: 8px;">
+  <a href="https://github.com/IkramHussainSiyam/Kawaiinime" target="_blank" title="Kawaiinime Repo">GitHub Repo</a>
+  <span style="color: #4588df;">|</span>
+  <a href="https://kawaiinime.vercel.app" target="_blank" title="Kawaiinime Live">Live Link</a>
+</div>
+
+#### Technologies:
+
+1. Frontend: Material Tailwind, React.js
+1. Backend: Node.js, Express.js
+1. Database: MongoDB
+
+### 3. Influx
+
+Influx is a productivity app combining note-taking, text editing, to-do lists, and Kanban views, with NextAuth ensuring security.
+
+<div style="display: flex; gap: 8px;">
+  <a href="https://github.com/IkramHussainSiyam/Influx" target="_blank" title="Influx Repo">GitHub Repo</a>
+  <span style="color: #4588df;">|</span>
+  <a href="https://influx.vercel.app" target="_blank" title="Influx Live">Live Link</a>
+</div>
+
+#### Technologies:
+
+1. Frontend: Material Tailwind, React.js
+1. Backend: Node.js, Express.js
+1. Database: MongoDB
 
 ## 📈 GitHub Stats
 

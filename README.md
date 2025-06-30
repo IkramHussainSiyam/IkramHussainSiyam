@@ -8,7 +8,7 @@ Frontend Web Developer | React | Next.js | Prisma
 
 ## 🧑 About Me:
 
-Passionate for developing modern software solutions using modern JavaScript frameworks with a particular focus on React.js. From interactive frontend UIs to full-stack applications that elevate user experiences.
+Committed to developing modern software solutions using modern JavaScript frameworks with a particular focus on React.js. From interactive frontend UIs to full-stack applications that elevate user experiences.
 
 #### Connect with me:
 
@@ -28,10 +28,5 @@ _Was one of the toppers in advanced web dev program (Reactive Acceler
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=IkramHussainSiyam&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=IkramHussainSiyam&theme=transparent&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IkramHussainSiyam&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👋 Goodbye
+💖 Thanks for time. Hope you liked.

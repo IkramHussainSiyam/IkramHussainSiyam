@@ -12,13 +12,13 @@ Committed to developing modern software solutions using modern JavaScript framew
 
 #### Connect with me:
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-35530e?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ikramhussainsiyam.vercel.app) [![linkedin](https://img.shields.io/badge/linkedin-3982CE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikramhussainsiyam) [![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IkramHussain30) [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/IkramHussainSiyam) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikramhussainsiyam@gmail.com)
+[![portfolio](https://img.shields.io/badge/my_portfolio-35530e?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ikramhussainsiyam.vercel.app) [![My Resume](https://img.shields.io/badge/My_Resume-8d9a72?style=for-the-badge&logoColor=white)](https://ikramhussainsiyamresume2025.tiiny.site/) [![linkedin](https://img.shields.io/badge/linkedin-3982CE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikramhussainsiyam) [![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IkramHussain30) [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/IkramHussainSiyam)
 
 ## 📦 Projects
 
 - Libris - The next-generation book platform. [See details](https://github.com/IkramHussainSiyam/libris)
 - Unified Glow - All of your favorite themes in one place. [See details](https://github.com/IkramHussainSiyam/unified-glow-vscode-theme)
-- The Chronicles - Polished, Responsive Medium UI Clone. [See Details](https://github.com/IkramHussainSiyam/the-chronicles)
+- The Chronicles (🔃 In Progress) - A Full-stack writing platform. [See Details](https://github.com/IkramHussainSiyam/the-chronicles)
 
 ## 🎉 Achievements
 

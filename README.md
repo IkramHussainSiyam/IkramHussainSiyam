@@ -1,10 +1,10 @@
-[![Header](https://media.licdn.com/dms/image/v2/D5616AQGhfUKE-3RYqg/profile-displaybackgroundimage-shrink_200_800/B56Zr5m1BcJsAU-/0/1765124298086?e=1769040000&v=beta&t=GOIPY-zDGnLMnHlVKAwhV6GpvNMBKJ4VnzTL9yCqQnY "Visit My Portfolio")](https://ikramhussainsiyam.vercel.app)
+[![Header](https://media.licdn.com/dms/image/v2/D5616AQFJOLekJxcbSg/profile-displaybackgroundimage-shrink_350_1400/B56ZwUhC69JMAY-/0/1769870734402?e=1771459200&v=beta&t=9uXfpEK31Ih3I8lK4nu2qTzzpy9NaProItso3HHuWLI "Visit My Portfolio")](https://ikramhussainsiyam.vercel.app)
 
 👋 Hi Guys, I'm
 
 # Ikram Hussain Siyam
 
-Frontend Web Developer | Typescript | React | React Router | Prisma
+Software Developer
 
 ## 🧑 About Me:
 
@@ -14,27 +14,9 @@ Committed to developing modern software solutions using modern JavaScript framew
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-35530e?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ikramhussainsiyam.vercel.app) [![linkedin](https://img.shields.io/badge/linkedin-3982CE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikramhussainsiyam) [![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IkramHussain30) [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/IkramHussainSiyam) 
 
-## 💼 Experience
-
-**DecentIoT - An Open Source decentralized, DATABASE-agnostic IoT platform**
-
-Core contributor and Frontend Maintainer of the project, driving major UI/UX development
-
-Link: [www.decentiot.cloud](https://www.decentiot.cloud/people) • GitHub (coming soon): [github.com/DecentIoT/DecentIoT](https://github.com/DecentIoT/DecentIoT)
-
-
-## 🎉 Achievements
-
-_Was one of the toppers in advanced web dev program (Reactive Accelerator), earning a job [recommendation letter](https://learnwithsumit.com/certificates/verify/LWSCTXN-2XTNQOXQ)._
-
-## 📦 Projects
-
-- Libris - The next-generation book platform. [See details](https://github.com/IkramHussainSiyam/libris)
-- Unified Glow - All of your favorite themes in one place. [See details](https://github.com/IkramHussainSiyam/unified-glow-vscode-theme)
-
 ## 💻 Tech Stack:
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<a href='https://www.typescriptlang.org/' target="_blank"><img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF&labelColor=2E7ACB&color=2E7ACB'/></a> <a href='https://react.dev/' target="_blank"><img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=61D9FA&labelColor=2F2F2F&color=2F2F2F'/></a> <a href='https://tanstack.com/' target="_blank"><img alt='Tanstack' src='https://img.shields.io/badge/TanStack-100000?style=for-the-badge&logo=Tanstack&logoColor=FBC971&labelColor=252525&color=252525'/></a> <a href='http://nextjs.org/' target="_blank"><img alt='next.js' src='https://img.shields.io/badge/Next.Js-100000?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=000000&color=000000'/></a> <a href='https://supabase.com/' target="_blank"><img alt='supabase' src='https://img.shields.io/badge/supabase-100000?style=for-the-badge&logo=supabase&logoColor=43CE8B&labelColor=191919&color=191919'/></a> <a href='https://www.prisma.io/' target="_blank"><img alt='prisma' src='https://img.shields.io/badge/prisma-100000?style=for-the-badge&logo=prisma&logoColor=FFFFFF&labelColor=112A29&color=112A29'/></a>
 
 ## 👋 Goodbye
 💖 Thanks for time. Hope you liked.
